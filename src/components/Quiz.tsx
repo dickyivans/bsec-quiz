@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { quizData } from "../data";
 import Swal from "sweetalert2"; // Import SweetAlert
 import "./quiz.css";
+import studyImage from "../assets/study.png";
 
 const Quiz: React.FC = () => {
   const [quizHistory, setQuizHistory] = useState<
@@ -82,7 +83,7 @@ const Quiz: React.FC = () => {
     <div className="container mt-5">
       {/* Tampilkan gambar hanya jika isImageVisible bernilai true */}
       {isImageVisible && (
-        <img src="src/assets/study.png" alt="logo" className="img-fluid" />
+        <img src={studyImage} alt="logo" className="img-fluid" />
       )}
 
       {/* Container untuk soal dan jawaban */}
