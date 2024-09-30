@@ -1,0 +1,51 @@
+.navigation-buttons {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  background-color: transparent; /* Optional: Tambahkan background untuk visibilitas */
+  z-index: 100; /* Pastikan tombol berada di atas elemen lain */
+  margin-bottom: 3rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.quiz-container {
+  min-height: 100vh;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Membuat navigasi tetap di bawah */
+  overflow: hidden; /* Mencegah halaman scroll */
+}
+
+.container {
+  flex-grow: 1;
+  overflow-y: auto; /* Jika soal terlalu panjang, hanya konten soal yang bisa di-scroll */
+}
+
+.secondary-btn {
+  background-color: #f47026 !important;
+  color: white;
+}
+
+.quiz-image {
+  transition: opacity 0.5s ease; /* Transisi halus untuk efek fade */
+  opacity: 1; /* Opasitas penuh untuk gambar yang ditampilkan */
+}
+
+.fade-out {
+  opacity: 0; /* Menghilangkan gambar */
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+.disabled {
+  opacity: 0.5; /* Mengurangi opacity untuk tampilan tidak aktif */
+  cursor: not-allowed; /* Mengubah kursor menjadi not-allowed */
+  pointer-events: none; /* Menonaktifkan interaksi mouse */
+}
