@@ -3058,7 +3058,7 @@ export const quizData = [
   {
     question:
       "Pada menu travel di brimo, berapakah maksimal pembelian tiket whoosh",
-    answer: "15 kursi",
+    answer: "16 kursi",
     type: "ALL",
   },
   {
