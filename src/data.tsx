@@ -3279,4 +3279,1827 @@ export const quizData = [
     answer: "Aa dan bl",
     type: "ALL",
   },
+  {
+    question:
+      "berapakah setoran awal minimum tabungan britama valas dengan mata uang aud",
+    answer: "50 aud",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah saldo yang dimiliki nasabah untuk mendapatkan 1 kupon undian simpedes",
+    answer: "100 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa usia pembukaan britama rencana",
+    answer: "17 tahun sampai 64 tahun",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal minimum tabungan britama valas dengan mata uang usd",
+    answer: "50 usd",
+    type: "ALL",
+  },
+  {
+    question: "berapakah usia pembukaan rekening tabungan simuda investasiku",
+    answer: "18-30 tahun",
+    type: "ALL",
+  },
+  {
+    question: "berapakah maksimum tac untuk tabungan britama junio",
+    answer: "300 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah usia pensiun dipercepat pada ketentuan brifine",
+    answer: "50 tahun",
+    type: "ALL",
+  },
+  {
+    question: "sebutkan 3 cara top up brizzi",
+    answer: "Top up online, top up deposit, top up tunai",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya pinalty simpedes usaha apabila ratas saldo di bawah 5 juta",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran tetap minimum bulanan impian untuk tabungan simpedes bisa",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya penutupan rekening tabunganku bsa",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya administrasi bulanan untuk jenis tabungan simpedes bisa",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question: "apa bukti kepemilikan tabungan junio rencana",
+    answer: "Buku tabungan",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya penutupan rekening tabunganku non bsa",
+    answer: "20 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo minimal untuk jenis simpanan giro",
+    answer: "500 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya administrasi bulanan brifine ",
+    answer: "2000",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo minimum pada tabungan britama junio",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya pinalti pada penarikan sebagian tabungan britama rencana",
+    answer: "1% minimal 100 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya administrasi kartu silver untuk tabungan britama",
+    answer: "3500",
+    type: "ALL",
+  },
+  {
+    question:
+      "apa dokumen persyaratan pembukaan tabungan britama untuk wni perorangan",
+    answer: "Ktp dan npwp",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah besarnya nilai pertanggungan asuransi kecelakaan diri (personal accident) tabungan britama ",
+    answer: "250% dari saldo tabungan atau maksimum sebesar 150 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah harga kartu brizzi regular",
+    answer: "35 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa premi asuransi kerusakan tempat usaha",
+    answer: "40 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa denda dibawah saldo minimal per bulan",
+    answer: "5000",
+    type: "ALL",
+  },
+  {
+    question: "berapakah tarif nasabah prioritas safe deposite box tipe e",
+    answer: "600 ribu/tahun",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya pencetakan buku tabungan emas untuk kedua kalinya",
+    answer: "10000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya administrasi bulanan untuk tabungan simpedes umi",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question: "berapakah tarif normal safe deposite box tipe a",
+    answer: "200 ribu/ tahun",
+    type: "ALL",
+  },
+  {
+    question: "apa jenis pilihan investasi pada tabungan simpedes bisa",
+    answer: "Brife umum, brifine syariah, brifine kombinasi, brifine saham",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum untuk deposito hkd",
+    answer: "10.000 usd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya pinalty apabila rekening giro dibawah saldo mininal",
+    answer: "25 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah santunan cacat tetap seluruhnya akibat kecelakaan pada tabungan britama",
+    answer: "250% dari saldo minimum atau maksimal 150 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per transaksi untuk transaksi pembayaran menggunakan qlola internet banking",
+    answer: "2 milyar",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah saldo minimal untuk jenis simpanan tabungan simpedes usaha",
+    answer: "100 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal pembukaan rekening giro untuk nasabah non-perorangan",
+    answer: "1000000",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setora awal minimum untuk tabunganku non bsa",
+    answer: "20 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya administrasi bulanan kartu debit silver untuk tabungan simpedes",
+    answer: "4500",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya administrasi tabungan simpel",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per transaksi untuk transfer massal sesama bri menggunakan qlola internet banking",
+    answer: "2 milyar",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per hari untuk transfer sesama bri menggunakan qlola internet banking",
+    answer: "50 miliar",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo maksimum untuk tabunganku bsa",
+    answer: "10 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah santunan duka pada tabungan britama valas",
+    answer: "150usd",
+    type: "ALL",
+  },
+  {
+    question:
+      "Perhitungan bunga Tabungan BRI Britama dilakukan secara otomatis oleh sistem. Berapa hari pembagi perhitungan bunga",
+    answer: "365 hari",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum pertransaksi untuk transfer antar bank menggunakan aplikasi brimo untuk tabungan simpedes ",
+    answer: "100 jta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal minimum tabungan britama valas dengan mata uang jpy",
+    answer: "5000 jpy",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya pinalti dormand",
+    answer: "1000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran tetap minimal perbulan untuk tabungan britama valas rencana",
+    answer: "Minimal 10 usd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah santunan perawatan/ pengobatan akibat kecelakaan pada tabungan britama",
+    answer: "Sebesar kwitansi atau maksimal 25 % dari nilai pertanggungan",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum setor tunai menggunakan kartu debit giro premium",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya pencetakan pertama kali buku tabungan emas",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question: "berapkah saldo minimum tabunganku",
+    answer: "20 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah minimal per transaksi untuk transaksi RTGS menggunakan qlola internet banking",
+    answer: "100000001",
+    type: "ALL",
+  },
+  {
+    question: "berapakah minimum top up saldo brizzi pada nfc",
+    answer: "20000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transaksi perhari untuk jenis kartu premium pada tabungan simpedes usaha",
+    answer: "20 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya penutupan rekening tabungan simpel",
+    answer: "5ibu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya administrasi bulanan kartu debit black untuk tabungan simpedes",
+    answer: "8500",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer bi fast melalui aplikasi brimo untuk jenis kartu silver pada rekening tabungan britama",
+    answer: "250 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa premi asuransi amkkm per tahun",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah santunan duka pada tabungan britama",
+    answer: "1500000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah nominal top up selanjutnya apabila top up melalui outlet pegadaian",
+    answer: "0,01 gram",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya mass fund transfer/ transfer massal melalui qlola cash management",
+    answer: "1000",
+    type: "ALL",
+  },
+  {
+    question:
+      "apa dokumen persyaratan pembukaan tabungan britama untuk wna perorangan",
+    answer: "Pasport dan kitap/kitas/kim",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal rekening giro dengan mata uang jpy",
+    answer: "150.000 hkd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum pembayaran pulsa untuk jenis kartu premium tabungan simpedes usaha",
+    answer: "1 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya administrasi bulanan britama valas",
+    answer: "0,75 usd",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran tambahan untuk tabungan simuda rumahku",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa santunan meninggal dunia karena kecelakaan pada tabungan britama rencaba flexy",
+    answer: "200 kali setoran tetap",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per transaksi untuk transaksi kliring menggunakan qlola internet banking",
+    answer: "500 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per transaksi untuk transaksi RTGS menggunakan qlola internet banking",
+    answer: "1 milyar",
+    type: "ALL",
+  },
+  {
+    question: "berapakah ukuran safe deposite box tipe c",
+    answer: "5x10x24 inch",
+    type: "ALL",
+  },
+  {
+    question: "berapakah santunan pendidikan pada tabungan britama",
+    answer: "100% atau maksimum 10 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pergantian kartu debit premium karena hilang",
+    answer: "25 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya administrasi bulanan simpedes usaha apabila ratas saldo di bawah 5 juta",
+    answer: "100 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal minimum tabungan britama valas dengan mata uang hkd",
+    answer: "350 hkd",
+    type: "ALL",
+  },
+  {
+    question: "berapakah ukuran safe deposite box tipe d",
+    answer: "10x1024 inch",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transaksi perhari untuk jenis kartu pegadaian",
+    answer: "20 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "jenis simpanan yang dibuka melalui agen brilink/ laku pandai disebut",
+    answer: "Tabungan ku bsa",
+    type: "ALL",
+  },
+  {
+    question: "berapa jangka waktu tabungan britama valas rencana",
+    answer: "1-5 tahun",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah nominal top up selanjutnya apabila top up melalui chanel pegadaian",
+    answer: "0,1 gram",
+    type: "ALL",
+  },
+  {
+    question: "berapakah masimal usia pada pembukaan simpedes bisa",
+    answer: "64 tahun",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya administrasi bulanan simpedes usaha apabila ratas saldo di atas 5 juta",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya premi plan a pada tabungan britama rencana",
+    answer: "0,06",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya administrasi bulanan kartu debit prioritas",
+    answer: "20 ribu/bulan",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya penutupan rekening britama bisnis",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal rekening giro dengan mata uang cny 6.500 cny?",
+    answer: "",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum untuk deposito usd",
+    answer: "1000 usd",
+    type: "ALL",
+  },
+  {
+    question:
+      "setiap tanggal berapa biaya administrasi tabungan britama akan dilakukan pendebetan ",
+    answer: "20",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa santunan meninggal dunia biasa pada tabungan britama rencana",
+    answer: "100 x setoran tetap",
+    type: "ALL",
+  },
+  {
+    question: "sebutkan dokumen pembukaan rekening tabungan emas",
+    answer: "Ktp",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer antar bank menggunakan kartu debit black tabungan simpedes melalui atm",
+    answer: "15 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berpaakah limit maksimum transfer sesama bri menggunakan kartu debit gpn britama/ gold melalui atm",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa santunan meninggal dunia karena kecelakaan pada asuransi amkkm ",
+    answer: "19500000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum per hari transfer antar bank menggunakan aplikasi brimo untuk tabungan britama jenis kartu silver ",
+    answer: "250 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal rekening giro dengan mata uang hkd",
+    answer: "10.000 hkd",
+    type: "ALL",
+  },
+  {
+    question: "berapakah usia pembukaan rekening tabungan simuda rumahku",
+    answer: "18-30 tahun",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum direct debit jenis kartu black tabungan britama",
+    answer: "20 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya penutupan rekening giro",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "apa bukti kepemilikan tabungan britama rencana",
+    answer: "Sertifikat kepemilikan dan sertifikat asuransi",
+    type: "ALL",
+  },
+  {
+    question: "sebutkan pilihan jenis investasi pada brifine",
+    answer:
+      "Brifine pasar uang, brifine pendapatan tetap, brifine saham, brifine brifine pasar uang syariah, dan brifine berimbang syariah",
+    type: "ALL",
+  },
+  {
+    question: "berapa setoran awal minimum untuk jenis tabungan simpedes bisa",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya pinalti dormant untuk tabunganku bsa",
+    answer: "Tabpa pinalti",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah minimal per transaksi untuk transfer massal sesama bri menggunakan qlola internet banking",
+    answer: "1 rupiah",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer sesama bri melalui aplikasi brimo untuk jenis tabungan regular",
+    answer: "200 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa santunan harian rawat inap pada asuransi amkkm",
+    answer: "100 ribu/ hari max 90 hari",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah saldo minimum h-1 tabungan britama valas agar mendapatkan fasilitas pelindungan kecelakaan diri",
+    answer: "50 usd",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum untuk deposito rupiah",
+    answer: "5 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa setoran tambahan minimum untuk tabungan junio rencana",
+    answer: "10 ribu maksimal tdk dibatasi",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per hari untuk transaksi pembayaran menggunakan qlola internet banking",
+    answer: "5 milyar",
+    type: "ALL",
+  },
+  {
+    question: "berapkakah maksismum tac tabunganku bsa",
+    answer: "5 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "setiap tanggal berapa biaya administrasi tabungan simpedes akan dilakukan pendebetan ",
+    answer: "16",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pergantian pin",
+    answer: "5ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per transaksi untuk transfer sesama bri menggunakan qlola internet banking",
+    answer: "5 milyar",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah minimal per transaksi untuk transaksi pembayaran menggunakan qlola internet banking",
+    answer: "1 rupiah",
+    type: "ALL",
+  },
+  {
+    question:
+      "setiap tanggal berapa bunga tabungan simpedes akan dilakukan pengkreditan",
+    answer: "15",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah saldo minimum h-1 tabungan britama agar mendapatkan fasilitas pelindungan kecelakaan diri",
+    answer: "500 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal pembukaan britama junio untuk type vo",
+    answer: "100 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum setor tunai menggunakan kartu debit giro gold",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya tahunan setelah tahun pertama pada tabungan emas",
+    answer: "30.000 dibayarkan diawal",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum rtgs melalui aplikasi brimo untuk jenis kartu premium tabungan simpedes usaha",
+    answer: "550 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya switching brifine",
+    answer: "10.000 per peserta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya administrasi bulanan untuk tabungan britama",
+    answer: "12 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum untuk simpedes umi",
+    answer: "0",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah minimal per transaksi untuk transfer massal antar bank menggunakan qlola internet banking",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya penutupan rekening britama rencana",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah santunan pendapatan pada tabungan britama",
+    answer: "12 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa maksimal penarikan sebelum jatuh tempo untuk tabungan britama valas rencana",
+    answer: "Maksimum 15% dari total saldo, minimal saldo tersisa 100 usd",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal rekening giro dengan mata uang eur",
+    answer: "1000 eur",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya administrasi bulanan tabungan britama bisnis jika saldo diatas 5 juta",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa santunan meninggal dunia karena sakit pada asuransi amkkm",
+    answer: "2500000",
+    type: "ALL",
+  },
+  {
+    question: "berapakah batas minimal pengkinian data untuk nasabah high risk",
+    answer: "6 bulan",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal rekening giro dengan mata uang sar 1000 sar?",
+    answer: "",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah minimal dan maksimal pembukaan deposito melalaui brimo",
+    answer: "Min 5 juta max 500 jt",
+    type: "ALL",
+  },
+  {
+    question:
+      "setiap tanggal berapa bunga tabungan britama akan dilakukan pengkreditan",
+    answer: "20",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya administrasi kartu untuk bri private",
+    answer: "20 ribu/ bulan",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya penarikan di teller apabila penarikan dibawah 5 juta",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah minimum setoran tetap per bulan untuk tabungan simuda investasiku",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum rtgs melalui aplikasi brimo untuk jenis kartu black tabungan britama",
+    answer: "150 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya top up kartu brizzi",
+    answer: "0",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa pinalti penutupan rekening sebelum jatuh tempo untuk tabungan britama valas ",
+    answer: "2,5 % dari nominal yang dicairkan atau minimal 5 usd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer sesama bri menggunakan kartu debit giro gold melalui atm",
+    answer: "500 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per hari untuk transfer massal sesama bri menggunakan qlola internet banking",
+    answer: "50 milyar",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit tarik tunai menggunakan kartu debit giro classic",
+    answer: "10 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer antar bank melalui atm untuk jenis kartu debit premium gold ",
+    answer: "25 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa total dana minimum untuk pembukaan bri prioritas",
+    answer: "500 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah minimal per transaksi untuk transfer antar bank online menggunakan qlola internet banking",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah santunan pendapatan pada tabungan britama valas",
+    answer: "1200 usd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah saldo minimum perbukan untuk tabungan simuda investasiku",
+    answer: "20 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimal setor tunai tabungan menggunakan kartu black/gold ",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah minimal per transaksi untuk transaksi kliring menggunakan qlola internet banking",
+    answer: "1 rupiah",
+    type: "ALL",
+  },
+  {
+    question: "berapa santunan biaya operasi pada asuransi amkkm",
+    answer: "2500000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah maksimal transfer rtgs melalui aplikasi brimo untuk jenis kartu giro gold",
+    answer: "550 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berpaakah limit maksimum transfer sesama bri menggunakan kartu debit premium britama melalui atm",
+    answer: "200 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "apabila terjadi musibah dan peserta meninggal dunia, berapa uang santunan untuk asuransi rumahku",
+    answer: "20 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer sesama bri melalui aplikasi brimo untuk jenis kartu silver tabungan britama",
+    answer: "200 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah santunan pendidikan pada tabungan britama valas",
+    answer: "100% atau maksimum 1000 usd",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum tabungan simpel",
+    answer: "5ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa jangka waktu pembukaan britama rencana",
+    answer: "1 tahun sampai 20 tahun",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya penutupan rekening simpedes usaha",
+    answer: "Gatis",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya administrasi pencairan impian pada tabungan simpedes bisa",
+    answer: "25 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum untuk deposito sgd",
+    answer: "2000 sgd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa maksimal penarikan sebagian pada tabungan britama rencana ",
+    answer: "1 kali pertahun",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo minimum mengendap pada tabungan simpedes",
+    answer: "25000",
+    type: "ALL",
+  },
+  {
+    question: "berapakah administrasi bulanan tabungan simuda",
+    answer: "1000",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per hari untuk transaksi RTGS menggunakan qlola internet banking",
+    answer: "5 milyar",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya administrasi bulanan tabungan simpedes",
+    answer: "5500",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit pembelanjaan edc menggunakan kartu debit premium untuk tabungan britama",
+    answer: "1 miliar",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer antar bank melalui atm untuk jenis kartu debit giro gold ",
+    answer: "25 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya administrasi penutupan impian pada simpedes bisa",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa pinalti penarikan sebagian sebelum jatuh tempo untuk tabungan britama valas",
+    answer: "1% dari nominal yang diberikan atau minimal 5 usd",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya administrasi bulanan kartu debit gpn simpedes",
+    answer: "2500",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per transaksi untuk transfer massal antar bank menggunakan qlola internet banking",
+    answer: "50 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya administrasi bulanan tabungan britama tki",
+    answer: "3ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah minimum setoran tetap per bulan untuk tabungan simuda investasiku",
+    answer: "100 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit pembelanjaan edc menggunakan kartu debit silver untuk tabungan britama",
+    answer: "50 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setora awal minimum untuk tabunganku bsa",
+    answer: "0",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pemeliharaan kartu debit simpedes usaha",
+    answer: "0",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal pembukaan rekening giro untuk nasabah perorangan",
+    answer: "500000",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo minimum untuk tabungan simpedes bisa",
+    answer: "Bebas saldo minimum",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per hari untuk transfer antar bank online menggunakan qlola internet banking",
+    answer: "1 miliar",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pinalti apabila ratas saldo dibawah 5 juta",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo maksimum untuk tabunganku non bsa",
+    answer: "Tanpa batasan",
+    type: "ALL",
+  },
+  {
+    question: "berapakah maksimal saldo tertunda/ deposit pada kartu brizzi",
+    answer: "10 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah ukuran safe deposite box tipe b",
+    answer: "3x10x24 inch",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya buku cek/ bg",
+    answer: "275 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah minimal per transaksi untuk transaksi bi fast menggunakan qlola internet banking",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya administrasi kartu debit britama tki jenis kartu silver",
+    answer: "3500",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum pembukaan rekening britama",
+    answer: "250 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya pinalti penutupan sebelum jatuh tempo pada tabungan britama rencana",
+    answer: "2,5 % dari saldo yang dicairkan atau minimal 100 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimal setor tunai tabungan menggunakan kartu silver/ classic ",
+    answer: "50 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transaksi perhari untuk jenis kartu silver pada tabungan britama",
+    answer: "10 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya pergantian buku tabungan simpel karena rusak",
+    answer: "5ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah minimum setoran selanjutnya untuk tabungan britama",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal maksimum tabungan emas",
+    answer: "10 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit untuk transfer bi fast melalui aplikasi brimo untuk jenis kartu debit giro gold",
+    answer: "250 jt",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya tahunan tahun pertama pada tabungan emas",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum pembelanjaan edc menggunakan kartu debit giro gold",
+    answer: "50 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "apabila terjadi musibah, berapa uang santunan untuk asuransi kerusakan tempat usaha",
+    answer: "5 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo minimum britama valas mata uang usd",
+    answer: "10 usd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum setor tunai menggunakan kartu debit giro classic",
+    answer: "50 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa maksimal dana yang bisa ditarik untuk penarikan sebagian pada tabungan britama rencana ",
+    answer:
+      "15% dari total saldo, dan saldo rekening setelah penarikan sebagian minimal 1 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "kapan tabungan britama x menjadi close 180 hari dibawah minimal saldo dan berstatus domant?",
+    answer: "",
+    type: "ALL",
+  },
+  {
+    question: "berapa premi asuransi amkkm bundling bersama dengan pasangan",
+    answer: "90 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya administrasi bulanan rekening giro jika ratas saldo diatas 10 juta",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya pinalti penutupan simpedes impian sebelum jatuh tempo",
+    answer: "1% dari saldo atau minimum 100 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya sms notifikasi",
+    answer: "750 rupiah",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit untuk transfer bi fast melalui aplikasi brimo untuk jenis kartu debit giro premium",
+    answer: "500 jt",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran tetap minimum untuk jenis tabungan simpedes bisa",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya penutupan rekening tabungan simuda",
+    answer: "25 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya administrasi bulanan tabungan simpedes impian",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer sesama bri menggunakan kartu debit giro classic melalui brimo",
+    answer: "500 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah tarif sfe deposite box tipe a dan b untuk nasabah private dengan tiering saldo diatas 15 sampai dengan 100 miliar",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo minimum kartu brizzi",
+    answer: "0",
+    type: "ALL",
+  },
+  {
+    question: "berapakah jangka waktu pembukaan tabungn simpedes impian",
+    answer: "12 bulan sampai 240 bulan",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum pembelanjaan edc menggunakan kartu debit giro premium",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pergantian buku tabungan simpedes karena rusak",
+    answer: "25ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa setoran tetap bulanan minimum untuk tabungan britama junio rencana",
+    answer: "Minimal 100ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo minimum tabungan simpel",
+    answer: "5 ribu",
+    type: "ALL",
+  },
+  {
+    question: "apa jenis asuransi yang tersedia pada tabungan simpedes bisa",
+    answer: "Amkkm, kerusakan tempat usaha dan kerusakan rumahku",
+    type: "ALL",
+  },
+  {
+    question: "berapakah batas minimal pengkinian data untuk nasabah low risk",
+    answer: "2 tahun",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya pinalti dormant untuk tabunganku bsa",
+    answer: "2ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya setoran tunai antar kota dengan berita untuk nasabah tabungan simpel",
+    answer: "1000",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya kartu debit classic untuk tabungan simpedes bisa",
+    answer: "2500",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah denda dibawah saldo minimum untuk tabungan britama tki",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah besaran minimal aft perbulan dari rekening infuk ke rekening britama junio",
+    answer: "100ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer bi fast melalui aplikasi brimo untuk jenis kartu premium pada rekening simpedes usaha",
+    answer: "500 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit pembelanjaan edc menggunakan kartu debit gpn britama/ gold untuk tabungan britama",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah harga kartu brizzi co branding design",
+    answer: "30 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah fee pengelolaan brifine ",
+    answer: "0,7% pertahun",
+    type: "ALL",
+  },
+  {
+    question: "berapakah ukuran safe deposite box tipe e?15x10x24 inch?",
+    answer: "",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer antar bank menggunakan kartu debit silver tabungan simpedes melalui atm ",
+    answer: "10 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya administrasi bulanan untuk jenis simpanan giro mata uang usd",
+    answer: "5 usd",
+    type: "ALL",
+  },
+  {
+    question: "apa bukti pencairan deposito via brimo",
+    answer: "Notifikasi email",
+    type: "ALL",
+  },
+  {
+    question: "apa bukti kepemilikan tabungan britama valas rencana",
+    answer: "Sertifikat",
+    type: "ALL",
+  },
+  {
+    question: "berapakah usia pensiun normal pada ketentuan brifine",
+    answer: "55 tahun",
+    type: "ALL",
+  },
+  {
+    question: "berapakah ukuran safe deposite box tipe a",
+    answer: "3x5x24 inch",
+    type: "ALL",
+  },
+  {
+    question: "berapakah harga kartu brizzi co branding standar",
+    answer: "25 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya rekening koran tambahan untuk nasabah kepemilikan gito",
+    answer: "5000/ lembar",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya pergantian buku tabungan britama bisnis karena rusak",
+    answer: "25 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer sesama bri menggunakan kartu debit giro premium melalui atm",
+    answer: "1 miliar",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per hari untuk transfer massal antar bank menggunakan qlola internet banking",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah administrasi bulanan britama rencana",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal rekening giro dengan mata uang usd",
+    answer: "1000 usd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya administrasi bulanan rekening giro jika ratas saldo dibawah 10 juta",
+    answer: "35 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah minimal per transaksi untuk transfer sesama bri menggunakan qlola internet banking",
+    answer: "1 rupiah",
+    type: "ALL",
+  },
+  {
+    question: "berapakah jangka waktu auto debet tabungan simuda umahku",
+    answer: "12 bulan sampai 144 bulan/12 tahun",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah pinalti apabila dibawah saldo minimum untuk tabungan britama junio",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "pada undian tabungan simpedes peserta yang berhak mengikuti undian gratis adalah nasabah yang memiliki saldo minimal",
+    answer: "100 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "bapak hadran ingin melakukan pembukaan tabungan britama junio untuk anaknya. Apabila usia anak pak hadran dibawah 12 tahun, apakah prduct type yg bisa dipilih cs untuk pembukaan britama junio milik pak hadran",
+    answer: "Va",
+    type: "ALL",
+  },
+  {
+    question:
+      "apa dokumen persyaratan pembukaan rekening simpanan bagi wni dan nasabah perorangan di bri",
+    answer: "Ktp dan npwp",
+    type: "ALL",
+  },
+  {
+    question: "berapa saldo mengendap minimal untuk tabungan simpedes tki",
+    answer: "25 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya rekening koran perbulan untuk nasabah kepemilikan gito",
+    answer: "gratis",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya penutupan rekening britama",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya penarikan tunai tabungan simpel",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit pertransaksi untuk transfer antar bank melalui aplikasi brimo untuk jenis kartu debit giro gold",
+    answer: "100 jt",
+    type: "ALL",
+  },
+  {
+    question: "berapa minimum setoran selanjutnya untuk tabungan simpedes tki",
+    answer: "10000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya administrasi kartu debit britama tki jenis kartu black",
+    answer: "6500",
+    type: "ALL",
+  },
+  {
+    question: "berapakah minimum saldo mengendap pada tabungan emas",
+    answer: "0,05 gram",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal pembukaan rekening simpedes usaha untuk nasabahnon perorangan",
+    answer: "5 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa setoran awal inimum tabungan junio rencana",
+    answer: "Tidak ada",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per hari untuk transaksi bi fast menggunakan qlola internet banking",
+    answer: "1 milyar",
+    type: "ALL",
+  },
+  {
+    question:
+      "apa dokumen persyaratan pembukaan rekening simpanan bagi wna dan nasabah perorangan di bri",
+    answer: "Pasport dan kitas/kitap/kim",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran tetap minimum untuk jenis tabungan simpedes impian",
+    answer: "100 ribu dan berlaku kelipatannya, maksimal tdk dibatasi",
+    type: "ALL",
+  },
+  {
+    question:
+      "berpaakah limit maksimum transfer sesama bri menggunakan kartu debit silver tabungan simpedes melalui atm",
+    answer: "50 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah limit maksimum transaksi e-commerce qris",
+    answer: "20 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah batas transaksi maksimal untuk kartu brizzi",
+    answer: "20 juta perbulan",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya administrasi bulanan rekening giro jika ratas saldo dibawah 500.000",
+    answer: "60 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pergantian kartu britama x karena hilang",
+    answer: "15 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa maksimal penarikan saldo sebagian sebelum jatuh tempo tabungan junio rencana",
+    answer: "15 % dari total dana dan saldo setelah penarikan minimal 1 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimal tabungan britama tki",
+    answer: "20 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah masa aktif saldo brizzi ",
+    answer: "10 tahun sejak transaksi isi ulang terakhir",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal pembukaan britama junio untuk type va",
+    answer: "350 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya kartu yang dikenakan pada tabungan britama bisnis",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question: "berapa maksimal setoran tetap britama rencana",
+    answer: "5 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pergantian kartu debit silver karena hilang",
+    answer: "15 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per hari untuk transaksi kliring menggunakan qlola internet banking",
+    answer: "1 milyar",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum untuk tabungan simpedes impian",
+    answer: "100 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa biaya administrasi kartu bulanan untuk tabungan britama x",
+    answer: "1000",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pergantian kartu debit gpn simpedes karena rusak",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum tabungan emas",
+    answer: "10000",
+    type: "ALL",
+  },
+  {
+    question: "berapa setoran awal minimum untuk tabungan simpedes tki",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah saldo mengendap minimal untuk tabungan britama",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah maksimal transfer rtgs melalui aplikasi brimo untuk jenis kartu giro premium",
+    answer: "550 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah limit penarikan tunai tabungan britama valas",
+    answer: "25.000usd",
+    type: "ALL",
+  },
+  {
+    question: "berapa minimum setoran tambahan britama valas rencana",
+    answer: "1 usd maksimal tdk ditentukan",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya kartu yang dikenakan pada tabungan britama junio",
+    answer: "500",
+    type: "ALL",
+  },
+  {
+    question: "berapa lama masa pertanggungan asuransi amkkm ",
+    answer: "1 tahun",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum untuk deposito jpy",
+    answer: "150.000 jpy",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimal setor tunai tabungan menggunakan kartu premium ",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya administrasi bulanan tabungan britama x",
+    answer: "6 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer antar bank menggunakan kartu debit premium tabungan britama melalui atm",
+    answer: "25 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah merchant discount rate untuk qris kriteria mikro dengan nominal transaksi dibawah 100.000",
+    answer: "0",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per transaksi untuk transaksi bi fast menggunakan qlola internet banking",
+    answer: "250 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah merchant discount rate untuk qris kriteria mikro dengan nominal transaksi diatas 100.000",
+    answer: "0,003",
+    type: "ALL",
+  },
+  {
+    question: "kapan tabungan britama x menjadi dormant",
+    answer: "180 hari tdk bermutasi dengan saldo berapapun",
+    type: "ALL",
+  },
+  {
+    question: "berapakah minimum setoran selanjutnya untuk tabungan simpedes",
+    answer: "10000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah tarif safe deposite box untuk nasabah private dengan tiering saldo diatas 100 miliar",
+    answer: "Gratis",
+    type: "ALL",
+  },
+  {
+    question: "berapakah maksimal saldo pada kartu brizzi",
+    answer: "2 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah setoran awal minimum pembukaan tabungan simpedes",
+    answer: "50000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer sesama bri melalui aplikasi brimo untuk jenis kartu premium tabungan britama",
+    answer: "500 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa setoran awal pembukaan rekening britama x",
+    answer: "100ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "untuk persyaratan pembukaan bri prioritas dan private adalah wajib membuka tabungan britama. Berapakah saldo minimal britama yang dibuka oleh nasabah",
+    answer: "5juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah nominal top up selanjutnya apabila top up melalui agen pegadaian",
+    answer: "0,01 gram",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya penutupan rekening tabungn britama x",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa setoran awal minimum untuk tabungan britama bisnis non perorangan",
+    answer: "1juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa setoran tetap minimal perbulan britama rencana",
+    answer: "100 ribu kelipatan 50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa usia pembukaan tabungan britama x",
+    answer: "17-35 tahun",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal minimum tabungan britama valas dengan mata uang sgd",
+    answer: "65 sgd",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa pinalti penarikan sebagian sebelum jatuh tempo untuk tabungan junio rencana",
+    answer: "1% dari nominal yang diberikan atau minimal 100 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum per hari transfer antar bank menggunakan aplikasi brimo untuk tabungan britama jenis kartu premium ",
+    answer: "250 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit per hari untuk transfer antar bank melalui aplikasi brimo untuk jenis kartu debit giro premium",
+    answer: "250 jt",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya kartu debit gold untuk tabungan simpedes bisa",
+    answer: "6000",
+    type: "ALL",
+  },
+  {
+    question:
+      "Berapakah limit per transaksi untuk transfer antar bank online menggunakan qlola internet banking",
+    answer: "100 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah biaya setoran tunai antar kota dengan berita untuk non nasabah tabungan simpel",
+    answer: "2000",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapa santunan cacat tetap karena kecelakaan pada asuransi amkkm",
+    answer: "5 juta",
+    type: "ALL",
+  },
+  {
+    question:
+      "jenis simpanan dalam berbagai mata uang yang penarikannya dapat dilakukan sewaktu-waktu disebut",
+    answer: "Giro",
+    type: "ALL",
+  },
+  {
+    question: "berapa saldo minimum tabungan britama x",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah batas minimal pengkinian data untuk nasabah medium risk",
+    answer: "1 tahun",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit maksimum transfer sesama bri menggunakan kartu debit giro premium melalui brimo",
+    answer: "500 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya penutupan rekening tabungan emas",
+    answer: "30000",
+    type: "ALL",
+  },
+  {
+    question: "berapakah biaya reissue pin kartu debit giro",
+    answer: "10 ribu",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah limit pertransaksi untuk transfer antar bank melalui aplikasi brimo untuk jenis kartu debit giro premium",
+    answer: "100 jt",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah total dana yang harus dimiliki untuk menjadi nasabah private",
+    answer: "15 miliar",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya pergantian kartu debit black karena rusak",
+    answer: "20 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapakah minimum top up saldo brizzi pada non nfc",
+    answer: "0",
+    type: "ALL",
+  },
+  {
+    question:
+      "apabila terjadi musibah, berapa uang santunan untuk asuransi rumahku",
+    answer: "15 juta",
+    type: "ALL",
+  },
+  {
+    question: "berapa premi asuransi rumahku",
+    answer: "50 ribu",
+    type: "ALL",
+  },
+  {
+    question: "berapa biaya administrasi kartu black untuk tabungan britama",
+    answer: "6500",
+    type: "ALL",
+  },
+  {
+    question: "berapkakah maksismum tac tabunganku non bsa",
+    answer: "10 juta",
+    type: "ALL",
+  },
+  {
+    question: "sebutkan program yang ditawarkan pada brifine",
+    answer: "Program pensiun iuran pasti/ppip",
+    type: "ALL",
+  },
+  {
+    question:
+      "berapakah setoran awal pembukaan rekening simpedes usaha untuk nasabah perorangan",
+    answer: "1 juta",
+    type: "ALL",
+  },
 ];
